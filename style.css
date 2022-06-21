@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+@font-face {
+  font-family:lobster ;
+  src: url(lobster.ttf);
+}
+h1{font-family: lobster;font-size: 40px;color: rgb(255, 255, 255);}
+h2{font-family: lobster;font-size: 28px;color: rgb(255, 255, 255);}
